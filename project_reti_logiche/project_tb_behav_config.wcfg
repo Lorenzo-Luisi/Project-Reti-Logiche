@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="project_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="project_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="255.640 ns"></ZoomStartTime>
+      <ZoomEndTime time="3,385.641 ns"></ZoomEndTime>
+      <Cursor1Time time="1,950.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="229"></NameColumnWidth>
+      <ValueColumnWidth column_width="82"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="63" />
+   <wvobject fp_name="/project_tb/tb_rst" type="logic">
+      <obj_property name="ElementShortName">tb_rst</obj_property>
+      <obj_property name="ObjectShortName">tb_rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/enable_wire" type="logic">
+      <obj_property name="ElementShortName">enable_wire</obj_property>
+      <obj_property name="ObjectShortName">enable_wire</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/o_done_internal" type="logic">
+      <obj_property name="ElementShortName">o_done_internal</obj_property>
+      <obj_property name="ObjectShortName">o_done_internal</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/o_z0" type="array">
+      <obj_property name="ElementShortName">o_z0[7:0]</obj_property>
+      <obj_property name="ObjectShortName">o_z0[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/o_z1" type="array">
+      <obj_property name="ElementShortName">o_z1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">o_z1[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/o_z2" type="array">
+      <obj_property name="ElementShortName">o_z2[7:0]</obj_property>
+      <obj_property name="ObjectShortName">o_z2[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/o_z3" type="array">
+      <obj_property name="ElementShortName">o_z3[7:0]</obj_property>
+      <obj_property name="ObjectShortName">o_z3[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/SORT_OUTPUT/o_regZ0" type="array">
+      <obj_property name="ElementShortName">o_regZ0[7:0]</obj_property>
+      <obj_property name="ObjectShortName">o_regZ0[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/SORT_OUTPUT/o_regZ1" type="array">
+      <obj_property name="ElementShortName">o_regZ1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">o_regZ1[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/SORT_OUTPUT/o_regZ2" type="array">
+      <obj_property name="ElementShortName">o_regZ2[7:0]</obj_property>
+      <obj_property name="ObjectShortName">o_regZ2[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/SORT_OUTPUT/o_regZ3" type="array">
+      <obj_property name="ElementShortName">o_regZ3[7:0]</obj_property>
+      <obj_property name="ObjectShortName">o_regZ3[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/SORT_OUTPUT/data" type="array">
+      <obj_property name="ElementShortName">data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">data[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/r_store_load" type="logic">
+      <obj_property name="ElementShortName">r_store_load</obj_property>
+      <obj_property name="ObjectShortName">r_store_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/SORT_OUTPUT/o_reg_store" type="array">
+      <obj_property name="ElementShortName">o_reg_store[7:0]</obj_property>
+      <obj_property name="ObjectShortName">o_reg_store[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/cur_state" type="other">
+      <obj_property name="ElementShortName">cur_state</obj_property>
+      <obj_property name="ObjectShortName">cur_state</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/tb_clk" type="logic">
+      <obj_property name="ElementShortName">tb_clk</obj_property>
+      <obj_property name="ObjectShortName">tb_clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/tb_start" type="logic">
+      <obj_property name="ElementShortName">tb_start</obj_property>
+      <obj_property name="ObjectShortName">tb_start</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/tb_w" type="logic">
+      <obj_property name="ElementShortName">tb_w</obj_property>
+      <obj_property name="ObjectShortName">tb_w</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/r1_load" type="logic">
+      <obj_property name="ElementShortName">r1_load</obj_property>
+      <obj_property name="ObjectShortName">r1_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/r2_load" type="logic">
+      <obj_property name="ElementShortName">r2_load</obj_property>
+      <obj_property name="ObjectShortName">r2_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/SHIFT_REG_SORT/o_reg1" type="logic">
+      <obj_property name="ElementShortName">o_reg1</obj_property>
+      <obj_property name="ObjectShortName">o_reg1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/SHIFT_REG_SORT/o_reg2" type="logic">
+      <obj_property name="ElementShortName">o_reg2</obj_property>
+      <obj_property name="ObjectShortName">o_reg2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/selector" type="array">
+      <obj_property name="ElementShortName">selector[1:0]</obj_property>
+      <obj_property name="ObjectShortName">selector[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/o_mem_addr" type="array">
+      <obj_property name="ElementShortName">o_mem_addr[15:0]</obj_property>
+      <obj_property name="ObjectShortName">o_mem_addr[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/r3_load" type="logic">
+      <obj_property name="ElementShortName">r3_load</obj_property>
+      <obj_property name="ObjectShortName">r3_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/r4_load" type="logic">
+      <obj_property name="ElementShortName">r4_load</obj_property>
+      <obj_property name="ObjectShortName">r4_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/r5_load" type="logic">
+      <obj_property name="ElementShortName">r5_load</obj_property>
+      <obj_property name="ObjectShortName">r5_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/r6_load" type="logic">
+      <obj_property name="ElementShortName">r6_load</obj_property>
+      <obj_property name="ObjectShortName">r6_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/r7_load" type="logic">
+      <obj_property name="ElementShortName">r7_load</obj_property>
+      <obj_property name="ObjectShortName">r7_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/r8_load" type="logic">
+      <obj_property name="ElementShortName">r8_load</obj_property>
+      <obj_property name="ObjectShortName">r8_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/r9_load" type="logic">
+      <obj_property name="ElementShortName">r9_load</obj_property>
+      <obj_property name="ObjectShortName">r9_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/r10_load" type="logic">
+      <obj_property name="ElementShortName">r10_load</obj_property>
+      <obj_property name="ObjectShortName">r10_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/r11_load" type="logic">
+      <obj_property name="ElementShortName">r11_load</obj_property>
+      <obj_property name="ObjectShortName">r11_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/r12_load" type="logic">
+      <obj_property name="ElementShortName">r12_load</obj_property>
+      <obj_property name="ObjectShortName">r12_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/r13_load" type="logic">
+      <obj_property name="ElementShortName">r13_load</obj_property>
+      <obj_property name="ObjectShortName">r13_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/r14_load" type="logic">
+      <obj_property name="ElementShortName">r14_load</obj_property>
+      <obj_property name="ObjectShortName">r14_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/r15_load" type="logic">
+      <obj_property name="ElementShortName">r15_load</obj_property>
+      <obj_property name="ObjectShortName">r15_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/r16_load" type="logic">
+      <obj_property name="ElementShortName">r16_load</obj_property>
+      <obj_property name="ObjectShortName">r16_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/r17_load" type="logic">
+      <obj_property name="ElementShortName">r17_load</obj_property>
+      <obj_property name="ObjectShortName">r17_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/r18_load" type="logic">
+      <obj_property name="ElementShortName">r18_load</obj_property>
+      <obj_property name="ObjectShortName">r18_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/SHIFT_REG_DATA/r19_load" type="logic">
+      <obj_property name="ElementShortName">r19_load</obj_property>
+      <obj_property name="ObjectShortName">r19_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/rZ0_load" type="logic">
+      <obj_property name="ElementShortName">rZ0_load</obj_property>
+      <obj_property name="ObjectShortName">rZ0_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/rZ1_load" type="logic">
+      <obj_property name="ElementShortName">rZ1_load</obj_property>
+      <obj_property name="ObjectShortName">rZ1_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/rZ2_load" type="logic">
+      <obj_property name="ElementShortName">rZ2_load</obj_property>
+      <obj_property name="ObjectShortName">rZ2_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/rZ3_load" type="logic">
+      <obj_property name="ElementShortName">rZ3_load</obj_property>
+      <obj_property name="ObjectShortName">rZ3_load</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/SHIFT_REG_DATA/o_shift_reg_sp16_reverse" type="array">
+      <obj_property name="ElementShortName">o_shift_reg_sp16_reverse[15:0]</obj_property>
+      <obj_property name="ObjectShortName">o_shift_reg_sp16_reverse[15:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/SHIFT_REG_DATA/o_reg3" type="logic">
+      <obj_property name="ElementShortName">o_reg3</obj_property>
+      <obj_property name="ObjectShortName">o_reg3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/SHIFT_REG_DATA/o_reg4" type="logic">
+      <obj_property name="ElementShortName">o_reg4</obj_property>
+      <obj_property name="ObjectShortName">o_reg4</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/SHIFT_REG_DATA/o_reg5" type="logic">
+      <obj_property name="ElementShortName">o_reg5</obj_property>
+      <obj_property name="ObjectShortName">o_reg5</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/SHIFT_REG_DATA/o_reg6" type="logic">
+      <obj_property name="ElementShortName">o_reg6</obj_property>
+      <obj_property name="ObjectShortName">o_reg6</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/SHIFT_REG_DATA/o_reg7" type="logic">
+      <obj_property name="ElementShortName">o_reg7</obj_property>
+      <obj_property name="ObjectShortName">o_reg7</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/SHIFT_REG_DATA/o_reg8" type="logic">
+      <obj_property name="ElementShortName">o_reg8</obj_property>
+      <obj_property name="ObjectShortName">o_reg8</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/SHIFT_REG_DATA/o_reg9" type="logic">
+      <obj_property name="ElementShortName">o_reg9</obj_property>
+      <obj_property name="ObjectShortName">o_reg9</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/SHIFT_REG_DATA/o_reg10" type="logic">
+      <obj_property name="ElementShortName">o_reg10</obj_property>
+      <obj_property name="ObjectShortName">o_reg10</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/SHIFT_REG_DATA/o_reg11" type="logic">
+      <obj_property name="ElementShortName">o_reg11</obj_property>
+      <obj_property name="ObjectShortName">o_reg11</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/SHIFT_REG_DATA/o_reg12" type="logic">
+      <obj_property name="ElementShortName">o_reg12</obj_property>
+      <obj_property name="ObjectShortName">o_reg12</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/SHIFT_REG_DATA/o_reg13" type="logic">
+      <obj_property name="ElementShortName">o_reg13</obj_property>
+      <obj_property name="ObjectShortName">o_reg13</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/SHIFT_REG_DATA/o_reg14" type="logic">
+      <obj_property name="ElementShortName">o_reg14</obj_property>
+      <obj_property name="ObjectShortName">o_reg14</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/SHIFT_REG_DATA/o_reg15" type="logic">
+      <obj_property name="ElementShortName">o_reg15</obj_property>
+      <obj_property name="ObjectShortName">o_reg15</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/SHIFT_REG_DATA/o_reg16" type="logic">
+      <obj_property name="ElementShortName">o_reg16</obj_property>
+      <obj_property name="ObjectShortName">o_reg16</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/SHIFT_REG_DATA/o_reg17" type="logic">
+      <obj_property name="ElementShortName">o_reg17</obj_property>
+      <obj_property name="ObjectShortName">o_reg17</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/SHIFT_REG_DATA/o_reg18" type="logic">
+      <obj_property name="ElementShortName">o_reg18</obj_property>
+      <obj_property name="ObjectShortName">o_reg18</obj_property>
+   </wvobject>
+   <wvobject fp_name="/project_tb/UUT/SHIFT_REG_DATA/o_reg19" type="logic">
+      <obj_property name="ElementShortName">o_reg19</obj_property>
+      <obj_property name="ObjectShortName">o_reg19</obj_property>
+   </wvobject>
+</wave_config>
