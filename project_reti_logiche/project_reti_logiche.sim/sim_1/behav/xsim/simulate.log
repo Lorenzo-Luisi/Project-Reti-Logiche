@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Failure: Simulation Ended! TEST PASSATO (EXAMPLE)
+Time: 20 us  Iteration: 0  Process: /project_tb/testRoutine  File: C:/Users/lorenzo/Desktop/progetto reti logiche/project_reti_logiche/project_reti_logiche.srcs/sim_1/new/project_reti_logiche_tb.vhd
+$finish called at time : 20 us : File "C:/Users/lorenzo/Desktop/progetto reti logiche/project_reti_logiche/project_reti_logiche.srcs/sim_1/new/project_reti_logiche_tb.vhd" Line 140
